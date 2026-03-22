@@ -8,8 +8,8 @@ access to evidence-based care for aging populations.
 
 Currently Senior Program Manager at the [National Association of 
 Chronic Disease Directors](https://chronicdisease.org), leading 
-CDC-funded projects on arthritis care models and clinical-community 
-linkages.
+CDC-funded projects on arthritis and brain health care models and 
+clinical-community linkage.
 
 ## 🔗 Find me at
 
