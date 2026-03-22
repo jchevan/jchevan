@@ -1,11 +1,12 @@
 <img src="https://raw.githubusercontent.com/jchevan/jchevan/main/ADK.png" width="100%" style="max-height: 100px; object-fit: cover;">
+
+# Julia Chevan, PT, DPT, PhD, MPH
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Visit%20My%20Website-4A90D9?style=for-the-badge&logo=github&logoColor=white)](https://jchevan.github.io)
 
 </div>
 
-# Julia Chevan, PT, DPT, PhD, MPH
 
 Physical therapist • Researcher • Public health practitioner
 
