@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jchevan/jchevan/main/ADK.png" width="100%" style="max-height: 50px; object-fit: cover;">
+<img src="https://raw.githubusercontent.com/jchevan/jchevan/main/ADKOct2023.jpeg" width="100%" style="max-height: 50px; object-fit: cover;">
 
 # Julia Chevan, PT, DPT, PhD, MPH
 
