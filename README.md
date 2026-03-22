@@ -29,5 +29,7 @@ clinical-community linkage.
 - Implementation science, data standardization and learning health systems
 
 ---
-*Professor Emeritus, Springfield College | 
-3x Fulbright Scholar (Latvia, Rwanda, Nepal)*
+<img src="https://github.com/jchevan/jchevan/blob/main/FulbrightSeal.jpg?raw=true" height="40px"> *Fulbright Scholar (Latvia, Rwanda, Nepal)*
+<br>
+<img src="https://github.com/jchevan/jchevan/blob/main/Triangle.jpg?raw=true" height="40px"> *Professor Emeritus, Springfield College*
+
